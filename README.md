@@ -70,13 +70,6 @@ The project evaluates each model’s performance using metrics like accuracy, pr
 
 ### **Contributors**:
 This project was developed as part of the **CS364 Machine Learning** course at **Al Imam Mohammad ibn Saud Islamic University**.  
-**Instructor**: Dr. Asma Alsaleh  
-
-**Team Members**:  
-- **Lujain Sultan Aloufi**: Decision Tree, KNN implementation.  
-- **Deem Ibrahim Alfaleh**: Decision Tree, KNN implementation.  
-- **Hadeel Nasser Almaylam**: Overfitting solutions, SVM implementation.  
-- **Lamyaa Nasser Alrayes**: Overfitting solutions, SVM implementation.
 
 ---
 
